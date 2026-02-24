@@ -14,6 +14,8 @@ Jeg har tatt utgangspunkt i en side jeg startet på i CodePen og flyttet den ove
 ## Hvordan se siden
 1. Klon repoet til din maskin.
 2. Åpne `index.html` i nettleseren din.
+Eller gå til: https://kallhovd.github.io/grunnleggende-flexbox-oppgave/
+
 
 ---
 *Laget av Johanne Kallhovd*
